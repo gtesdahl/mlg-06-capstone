@@ -13,6 +13,6 @@ A CNN classification model that predicts the whether a given book cover will rec
 
 ## Future Work
 
-- Generate book covers for certain genres through encoder and decoder networks.
+- Generate book covers for certain genres through encoder and decoder networks
 - Integrate OCR into the model
 - Hook into the CNN to highlight the differentiating aspects of successful book covers
