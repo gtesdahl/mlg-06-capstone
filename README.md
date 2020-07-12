@@ -9,11 +9,11 @@ Although the common adage warns against judging books by their covers, the reali
 
 ## Solution
 
-A CNN classification model that predicts whether a given book cover will receive a high, medium, or low number of Goodreads ratings. 
+A CNN classification model that predicts whether a given book cover will receive a high, medium, or low number of Goodreads ratings.
 
 ## Future Work
 
-- Improve web app
+- Improve web app (https://book-cover-judger.onrender.com/)
 - Generate book covers for certain genres through encoder and decoder networks
 - Integrate OCR into the model
 - Hook into the CNN to highlight the differentiating aspects of successful book covers
